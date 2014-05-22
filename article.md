@@ -26,7 +26,7 @@ the release tarballs in a separate assets repository (such as
 [this one](https://github.com/shlomif/fc-solve-site-assets) ), or use something
 like git-index.
 
-For the record, the originator of the Git version control system (on which
+For the record, the originators of the Git version control system (on which
 git is based), the Linux kernel developers, also provide such release tarballs
 for git and for the Linux kernel itself, on
 http://www.kernel.org/ and ftp://ftp.kernel.org/ , so you should follow suit.
