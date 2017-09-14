@@ -30,4 +30,3 @@ For the record, the originators of the Git version control system (on which
 git is based), the Linux kernel developers, also provide such release tarballs
 for git and for the Linux kernel itself, on
 http://www.kernel.org/ and ftp://ftp.kernel.org/ , so you should follow suit.
-
